@@ -1,0 +1,16 @@
+*{
+    font-family: "Times New Roman", "Times", "serif";
+}
+div{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+    max-width: 50ch;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+    max-width: 50ch;
+}
